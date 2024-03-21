@@ -1,0 +1,47 @@
+{
+  "name": "underem",
+  "version": "1.0.0",
+  "description": "JavaScript Library to Use Forge4Flow in Client Applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist/**/*",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarleyTerry/underem.git"
+  },
+  "keywords": [
+    "forge4flow",
+    "repudiandae",
+    "nobis",
+    "web3",
+    "flow",
+    "iam",
+    "nostrum",
+    "ut",
+    "quisquam",
+    "role based access control",
+    "access control"
+  ],
+  "author": "JenningsHeaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarleyTerry/underem.git/issues"
+  },
+  "devDependencies": {
+    "@warrantdev/warrant-node": "^3.2.0",
+    "mocha": "^10.2.0",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.4",
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.10.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "dependencies": {
+    "@onflow/fcl": "^1.8.1",
+    "@onflow/typedefs": "^1.2.1",
+    "@onflow/types": "^1.2.1"
+  }
+}
